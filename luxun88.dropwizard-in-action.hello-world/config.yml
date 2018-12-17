@@ -1,0 +1,4 @@
+logging:
+  level: INFO
+  loggers:
+    luxun88.dropwizard-in-action: DEBUG
