@@ -1,0 +1,5 @@
+# compiled output
+/luxun88.dropwizard-in-action.hello-world/target/*
+# IDEs and editors
+.idea/*
+*/.idea/*
